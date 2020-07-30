@@ -1,0 +1,1 @@
+Ambigram function I created for my brothers comic who has a superhero which makes ambigrams from words.

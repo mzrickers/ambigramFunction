@@ -1,0 +1,15 @@
+{
+  "name": "ambigram",
+  "version": "1.0.0",
+  "description": "Ambigram function",
+  "main": "ambigram.js",
+  "dependencies": {
+    "array-to-txt-file": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zach Rickers",
+  "license": "ISC"
+}
